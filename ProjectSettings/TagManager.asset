@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FashionItem
+  - Inventory
+  - CursorItem
+  - Canvas
+  - Holder
+  - ROOM_ITEM
+  - PlayerCamera
+  - SlideCollider
+  - Room
+  - DeadZone
+  - Ground
+  - UserInfoPanel
+  - UseItem
+  - Info
+  - Bullet
+  - Obstacle
+  - MusicPanel
+  - BODY
+  - GLOVEL
+  - GLOVER
+  - TAIL
+  - HEAD
+  - USEITEM1
+  - USEITEM2
+  - ErrorBox
+  - Death Ball
+  - GAME_TXT
+  - PLAYER_TXT
+  - MiniMap Icon
+  - UI Panel
+  - UI Panel Hit
+  - Police Officer
+  - Civilian
+  - Shield
+  - XR I
+  - XR O
+  - XR C
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - UseItem
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ErrorBox
+    uniqueID: 4183919597
+    locked: 0
